@@ -2496,8 +2496,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #8b8554;
+  border-color: #8b8554;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -9925,7 +9925,7 @@ button.bg-black:focus {
 }
 
 .text-primary {
-  color: #003882 !important;
+  color: #8b8554 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10299,7 +10299,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #003882;
+    border-color: #8b8554;
     border-width: 0.25rem;
     width: 30%;
   }
@@ -10329,7 +10329,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #003882;
+  border-bottom: 0.25rem solid #8b8554;
 }
 .contact-section .card h4 {
   font-size: 0.8rem;
@@ -10338,7 +10338,7 @@ body {
   letter-spacing: 0.15rem;
 }
 .contact-section .card hr {
-  border-color: #003882;
+  border-color: #8b8554;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -10352,7 +10352,7 @@ body {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255);
 }
 .contact-section .social a:hover {
   color: rgba(255, 255, 255, 0.5);
