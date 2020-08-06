@@ -6,4 +6,4 @@ Week-8-HW
 A portfolio site that will be updated as new projects are completed.
 
 ## Portfolio Link
-[Link to Portfolio](https://alek2535.github.io/Updated-Portfolio/)
+Link to Portfolio: [https://alek2535.github.io/Updated-Portfolio/](https://alek2535.github.io/Updated-Portfolio/)
